@@ -36,6 +36,8 @@
 </div>
 </div>
 
+- :briefcase: I'm currently available for work.
+
 --------
 
 Last Edited on: 10.12.20
