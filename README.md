@@ -33,10 +33,11 @@
   <img align="center" alt="Asem's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
+  - :briefcase: I'm currently available for work.
 </div>
 </div>
 
-- :briefcase: I'm currently available for work.
+
 
 --------
 
