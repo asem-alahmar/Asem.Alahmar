@@ -20,7 +20,7 @@
 
 ### 👨‍💻 All of my projects are available [Here](https://github.com/asem-alahmar?tab=repositories)
 
-### 📫 How to reach me [Here](**mo.asem.alahmar@gmail.com**)
+### 📫 How to reach me [Email](**mo.asem.alahmar@gmail.com**)
 
 ### You can find me on:
 <div align="center">
