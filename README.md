@@ -36,6 +36,10 @@
 <a href="https://twitter.com/Asem_Alahmar">
   <img align="center" alt="Asem's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+  
+<a href="https://medium.com/@asem-alahmar">
+  <img align="center" alt="Asem's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <br>
 <br>
 <br>
