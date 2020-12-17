@@ -36,9 +36,14 @@
 <a href="https://twitter.com/Asem_Alahmar">
   <img align="center" alt="Asem's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-  
 <a href="https://medium.com/@asem-alahmar">
   <img align="center" alt="Asem's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://edabit.com/user/BvJSZ7AZvEYRBLhyb">
+  <img align="center" alt="Asem's Edabit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/edabit.svg" />
+</a>
+<a href="https://www.hackerrank.com/AsemAlahmar">
+  <img align="center" alt="Asem's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br>
 <br>
