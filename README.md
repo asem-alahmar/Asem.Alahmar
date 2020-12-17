@@ -23,23 +23,23 @@
 ### 📫 How to reach me [Email](**mo.asem.alahmar@gmail.com**)
 
 ### You can find me on:
-<div align="center">
-<a href="https://www.facebook.com/asem.alahmar/" target="#">
-  <img align="center" alt="Asem's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" target="_blank"/>
+<div align="center" target="_blank">
+<a href="https://www.facebook.com/asem.alahmar/" >
+  <img align="center" alt="Asem's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>  
-<a href="https://www.linkedin.com/in/mohamad-asem-alahmar/" target="_blank">
-  <img align="center" alt="Asem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>
+<a href="https://www.linkedin.com/in/mohamad-asem-alahmar/" >
+  <img align="center" alt="Asem's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/asem.a.h/" target="_blank">
+<a href="https://www.instagram.com/asem.a.h/" >
   <img align="center" alt="Asem's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/Asem_Alahmar" target="_blank">
+<a href="https://twitter.com/Asem_Alahmar" >
   <img align="center" alt="Asem's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://medium.com/@asem-alahmar" target="_blank">
+<a href="https://medium.com/@asem-alahmar" >
   <img align="center" alt="Asem's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.hackerrank.com/AsemAlahmar" target="_blank">
+<a href="https://www.hackerrank.com/AsemAlahmar" >
   <img align="center" alt="Asem's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br>
