@@ -18,7 +18,7 @@
 
 
 
-### 👨‍💻 All of my projects are available [Here](https://github.com/asem-alahmar?tab=repositories)
+### 👨‍💻 My projects are available [Here](https://github.com/asem-alahmar?tab=repositories)
 
 ### 📫 How to reach me [Email](**mo.asem.alahmar@gmail.com**)
 
