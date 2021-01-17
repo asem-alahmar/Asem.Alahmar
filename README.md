@@ -34,7 +34,7 @@
 
 
 ---------------
-#### my portfolio:
+#### My Portfolio:
 ### [My Portfolio](https://my-portfolio-one-kohl.vercel.app)
 ---------------
 #### Live Demo:
