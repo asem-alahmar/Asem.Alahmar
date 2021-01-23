@@ -36,6 +36,9 @@
 ---------------
 ### My Portfolio:
 #### [Simple Portfolio](https://my-portfolio-asem.vercel.app)
+
+### Blog:
+#### [here](https://asem.hashnode.dev)
 ---------------
 #### Live Demo:
 1-[bootstrap-tutorial](https://bootstrap-tutorial.vercel.app) <br>
