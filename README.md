@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/bc25c7d4-f31d-4764-97db-9ef67f55cca8)# Asem-Alahmar
 <div align="center">
-<img src="https://imgur.com/PD3BX08" width="400px" />
+<img src="https://i.imgur.com/PD3BX08.jpeg" width="400px" />
 <br>
 
 # Hi 👋, I'm **Asem Alahmar**
