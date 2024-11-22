@@ -1,6 +1,6 @@
 !# Asem-Alahmar
 <div align="center">
-<img src="https://i.imgur.com/PD3BX08.jpeg" width="400px" />
+<img src="https://i.imgur.com/PD3BX08.jpeg" width="600px" />
 <br>
 
 # Hi 👋, I'm **Asem Alahmar**
