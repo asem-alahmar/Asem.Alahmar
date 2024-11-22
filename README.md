@@ -5,7 +5,6 @@
 
 # Hi 👋, I'm **Asem Alahmar**
 
-####  I'm A Front-End Developer :)
 
 
 ### Languages and Tools 🛠 
@@ -20,17 +19,11 @@
 
 
 
-### 👨‍💻 My projects are available [Here](https://github.com/asem-alahmar?tab=repositories)
 
 ### 📫 How to reach me [Email](**mo.asem.alahmar@gmail.com**)
 
 
 ---------------
-### My Portfolio:
-#### [Simple Portfolio](https://my-portfolio-asem.vercel.app)
-
-### Blog:
-#### [here](https://asem.hashnode.dev)
 ---------------
 #### Live Demo:
 1-[bootstrap-tutorial](https://bootstrap-tutorial.vercel.app) <br>
@@ -40,16 +33,9 @@
 5-[React-Dark-Mode](https://react-dark-mode1.vercel.app/) <br>
 6-[React-Website-router](https://react-website-router.vercel.app) <br>
 ---------------
-#### 5 Projects FreeCodeCamp:
-1-[survey-form](https://survey-form-rho.vercel.app) <br>
-2-[build-a-tribute-page](https://build-a-tribute-page.vercel.app) <br>
-3-[product-landing-page](https://product-landing-page-rose.vercel.app) <br>
-4-[technical-documentation-page](https://technical-documentation-page-one.vercel.app) <br>
-5-[personal portfolio webpage](https://personal-portfolio-webpage-ten.vercel.app) <br>
-
+---------------
 
  
-### You can find me on:
 <div align="center" >
 <a href="https://www.facebook.com/asem.alahmar/" >
   <img align="center" alt="Asem's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
